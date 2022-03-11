@@ -5,7 +5,7 @@ LABEL "com.github.actions.description"="Sync a directory to an AWS S3 repository
 LABEL "com.github.actions.icon"="refresh-cw"
 LABEL "com.github.actions.color"="green"
 
-LABEL version="0.5.1"
+LABEL version="0.5.3"
 LABEL repository="https://github.com/lks21c/s3-sync-action"
 LABEL homepage="http://www.kwangsiklee.com/"
 LABEL maintainer="Kwangsik Lee <lks21c@gmail.com>"
